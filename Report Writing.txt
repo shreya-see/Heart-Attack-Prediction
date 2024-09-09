@@ -1,0 +1,11 @@
+Steps to follow :
+ 
+1. Exploratory Data Analysis - trend plot of all parameters, relation with ams (scatter plot, BOX PLOT of all), variations of each parameters value
+2. Data Cleaning
+3. Missing Data imputation (one technique)
+4. Feature Selection (Try different techniques- find the common ones)
+5. Train data and test data split 
+6. Prediction - Naive Bayes, Random Tree, ANN, SVM
+(Logistic Regression If possible)
+7. Accuracy Metrics of the Model
+8. Python Dashboard

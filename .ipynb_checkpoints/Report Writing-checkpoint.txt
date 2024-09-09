@@ -1,0 +1,19 @@
+Report (14-06-2024)
+
+1. Tata Steel, Coke plant, Literature
+2. Data Preparation 
+3. Exploratory Data Analysis - trend plot of all parameters, relation with ams (scatter plot, BOX PLOT of all), variations of each parameters value
+4. Data Cleaning
+
+(21-06-2024)
+Missing Data imputation (one technique)
+4. Feature Selection (Try different techniques- find the common ones, check multi collinearity)
+Study about multi collinearity and it's effect on model accuracy
+
+Train data and test data split 
+5. Prediction - Random Forest/SVR (x, y plot for predicted vs actual, r^2)
+
+(22-06-2024)
+6. Accuracy Metrics of the Model
+Python Dashboard
+7. Conclusion
